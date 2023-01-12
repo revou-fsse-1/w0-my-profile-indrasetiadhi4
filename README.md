@@ -33,7 +33,7 @@ My main focus is in Software Engineering, Computer Science, Algorithms, Data Str
 
 1. VS Code
 2. Markdown
-3. Terminal and CLI
+3. Terminal & CLI
 4. Git
 5. GitHub
 6. Postman
