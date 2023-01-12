@@ -91,3 +91,10 @@ console.log(text);
 const text: string = "Hello World";
 console.log(text);
 ```
+
+### Python
+
+```py
+string = "Hello World"
+print(string)
+```
