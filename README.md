@@ -6,7 +6,7 @@
 
 Hi, I'm Indra. Student of RevoU FSSE.
 
-<img src="assets/photo.jpeg" width="500"/>
+<img src="assets/photo.jpeg" width="400"/>
 
 I'm a Software Engineer & Data Enthusiast.
 
